@@ -22,7 +22,6 @@
     <list default="true" id="b4897ce4-2125-4bac-8294-5747be47a27b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/baitap.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603684730421</updated>
       <workItem from="1603684731453" duration="3782000" />
-      <workItem from="1603806725238" duration="12352000" />
+      <workItem from="1603806725238" duration="16447000" />
     </task>
     <servers />
   </component>
